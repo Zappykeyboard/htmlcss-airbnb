@@ -1,12 +1,11 @@
 *{
     margin: 0;
     padding: 0;
-    color: white;
 }
 
 /* imposta le dimensioni delle righe*/
 .row{
-    width: 100vw;
+    width: 99vw;
     height: 100vh;
     position: relative;
 }
@@ -36,6 +35,7 @@
 h1{
     font-size: 70px;
     text-shadow: 3px 3px black;
+    color: white;
     position: absolute;
     left: 50%;
     top: 50%;
