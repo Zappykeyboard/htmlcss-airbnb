@@ -9,9 +9,34 @@
     width: 100vw;
     height: 100vh;
     position: relative;
+    margin: 10px
 }
 
-#rome{
-    background: url("img/roma.jpg");
+/*imposta sfondo per le righe*/
+#roma{
+    background: rgba(0, 0, 0, 0.65) url("img/roma.jpg");
     background-size: cover;
+    background-blend-mode: darken;
+}
+
+#copenhagen{
+    background: rgba(0, 0, 0, 0.65) url("img/copenhagen.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+#tokyo{
+    background: rgba(0, 0, 0, 0.65) url("img/Tokyo.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+/*imposta il testo nelle immagini*/
+h1{
+    font-size: 70px;
+    text-shadow: 2px 2px black;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%)
 }
