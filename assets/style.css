@@ -1,4 +1,17 @@
 *{
     margin: 0;
     padding: 0;
+    color: white;
+}
+
+/* imposta le dimensioni delle righe*/
+.row{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+#rome{
+    background: url("img/roma.jpg");
+    background-size: cover;
 }
