@@ -35,7 +35,7 @@
 /*imposta il testo nelle immagini*/
 h1{
     font-size: 70px;
-    text-shadow: 2px 2px black;
+    text-shadow: 3px 3px black;
     position: absolute;
     left: 50%;
     top: 50%;
