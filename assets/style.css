@@ -14,19 +14,19 @@
 
 /*imposta sfondo per le righe*/
 #roma{
-    background: rgba(0, 0, 0, 0.65) url("img/roma.jpg");
+    background: rgba(0, 0, 0, 0.50) url("img/roma.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
 
 #copenhagen{
-    background: rgba(0, 0, 0, 0.65) url("img/copenhagen.jpg");
+    background: rgba(0, 0, 0, 0.50) url("img/copenhagen.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
 
 #tokyo{
-    background: rgba(0, 0, 0, 0.65) url("img/Tokyo.jpg");
+    background: rgba(0, 0, 0, 0.50) url("img/Tokyo.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
