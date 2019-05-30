@@ -5,7 +5,6 @@
 
 /* imposta le dimensioni delle righe*/
 .row{
-    width: 99vw;
     height: 100vh;
     position: relative;
 }
